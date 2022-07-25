@@ -1,11 +1,11 @@
 # Algorithm
 
-##Data Structure
+## Data Structure
 
 ---
-##Algorithm
+## Algorithm
 
 ---
-##Solved Problems
+## Solved Problems
 
 ---
